@@ -1,2 +1,2 @@
 # Server
-Server for some game
+Server for some game, connected with https://github.com/medmene/Game2D
